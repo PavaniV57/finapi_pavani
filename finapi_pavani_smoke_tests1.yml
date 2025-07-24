@@ -11,6 +11,7 @@ resources:
 variables:
   - group: LogAnalyticsSecrets
 
+
 pool:
   name: student-lab-pool
 
